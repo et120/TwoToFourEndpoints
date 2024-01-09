@@ -21,10 +21,10 @@ Endpoints:
 
 
 ## Peer Review
-**Name:** first and last **Date/ Time:** 1/9/24 xx:xx pm
+**Name:** Zahid Afsar **Date/ Time:** 1/9/24 11:54 am
 
 **Comment(s):**
 
-
+The application works perfectly as intended. When I tested to do all 3 of them they all return the right response on both swagger and postman. Overall I would like to say it works and she did a good job on this minichallenge project.
 
 ---
