@@ -2,5 +2,5 @@ namespace TwoToFourEndpoints.Services.Sum;
 
 public interface ISumService
 {
-    string GetSum(int numOne, int numTwo);
+    string GetSum(string numOne, string numTwo);
 }

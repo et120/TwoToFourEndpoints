@@ -15,7 +15,7 @@ public class SumController : ControllerBase
 
     [HttpGet]
     [Route("GetSum/Entera{numOne}/Entera{numTwo}")]
-    public string GetSum(int numOne, int numTwo)
+    public string GetSum(string numOne, string numTwo)
     {
         return _sumService.GetSum(numOne, numTwo);
     }

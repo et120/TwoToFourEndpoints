@@ -15,7 +15,7 @@ public class CompareController : ControllerBase
 
     [HttpGet]
     [Route("CompareNums/Enterawhole{numberOne}/Enterawhole{numberTwo}")]
-    public string CompareNums(int numberOne, int numberTwo)
+    public string CompareNums(string numberOne, string numberTwo)
     {
         return _compareService.CompareNums(numberOne, numberTwo);
     }

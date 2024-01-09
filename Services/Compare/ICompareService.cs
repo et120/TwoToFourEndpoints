@@ -2,5 +2,5 @@ namespace TwoToFourEndpoints.Services.Compare;
 
 public interface ICompareService
 {
-    string CompareNums(int numberOne, int numberTwo);
+    string CompareNums(string numberOne, string numberTwo);
 }

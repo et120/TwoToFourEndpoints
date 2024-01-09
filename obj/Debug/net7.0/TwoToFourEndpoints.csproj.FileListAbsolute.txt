@@ -64,3 +64,36 @@ C:/Users/Elizabeth/Desktop/CodeStack_Projects/Level2/Week2/TwoToFourEndpoints/ob
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/obj/Debug/net7.0/TwoToFourEndpoints.pdb
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/obj/Debug/net7.0/TwoToFourEndpoints.genruntimeconfig.cache
 /Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/obj/Debug/net7.0/ref/TwoToFourEndpoints.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\appsettings.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\TwoToFourEndpoints.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\TwoToFourEndpoints.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\TwoToFourEndpoints.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\TwoToFourEndpoints.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\TwoToFourEndpoints.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\staticwebassets\msbuild.TwoToFourEndpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\staticwebassets\msbuild.build.TwoToFourEndpoints.props
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TwoToFourEndpoints.props
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TwoToFourEndpoints.props
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\scopedcss\bundle\TwoToFourEndpoints.styles.css
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.csproj.CopyComplete
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\refint\TwoToFourEndpoints.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\TwoToFourEndpoints.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level2\Week2\TwoToFourEndpoints\obj\Debug\net7.0\ref\TwoToFourEndpoints.dll

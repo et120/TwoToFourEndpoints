@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/TwoToFourEndpoints.csproj": {}
+    "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\TwoToFourEndpoints\\TwoToFourEndpoints.csproj": {}
   },
   "projects": {
-    "/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/TwoToFourEndpoints.csproj": {
+    "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\TwoToFourEndpoints\\TwoToFourEndpoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/TwoToFourEndpoints.csproj",
+        "projectUniqueName": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\TwoToFourEndpoints\\TwoToFourEndpoints.csproj",
         "projectName": "TwoToFourEndpoints",
-        "projectPath": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/TwoToFourEndpoints.csproj",
-        "packagesPath": "/Users/zahidafsar/.nuget/packages/",
-        "outputPath": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/obj/",
+        "projectPath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\TwoToFourEndpoints\\TwoToFourEndpoints.csproj",
+        "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\TwoToFourEndpoints\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zahidafsar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
