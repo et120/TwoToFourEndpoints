@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elizabeth\\.nuget\\packages\\": {}
+    "/Users/zahidafsar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\TwoToFourEndpoints\\TwoToFourEndpoints.csproj",
+      "projectUniqueName": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/TwoToFourEndpoints.csproj",
       "projectName": "TwoToFourEndpoints",
-      "projectPath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\TwoToFourEndpoints\\TwoToFourEndpoints.csproj",
-      "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\TwoToFourEndpoints\\obj\\",
+      "projectPath": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/TwoToFourEndpoints.csproj",
+      "packagesPath": "/Users/zahidafsar/.nuget/packages/",
+      "outputPath": "/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer review - elizabeth/TwoToFourEndpoints/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/zahidafsar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -533,7 +533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
